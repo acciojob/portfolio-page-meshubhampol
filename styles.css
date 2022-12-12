@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+img {
+    height: 5cm;
+    width: 5cm;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 19.5cm;
+}
+
+#skills {
+    margin-left: 18cm;
+}
+
+#projects {
+    margin-left: 18cm;
+}
+
